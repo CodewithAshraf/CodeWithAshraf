@@ -1,162 +1,44 @@
-# 👋 Hi, I'm Muhammad Ashraf
+<h1 align="center">Welcome to Ashraf's Hub[cite: 1]</h1>
+<p align="center"><i>Explore their open source contributions and projects[cite: 1]</i></p>
 
-### Full Stack Developer | Flutter Developer | UI/UX Designer
+## 👨‍💻 About Me
+I craft responsive, user-friendly web applications by combining clean front-end design with powerful back-end solutions. Skilled in PHP, MySQL, JavaScript, and mobile development.[cite: 1] 
 
-I’m a software developer focused on building modern web and mobile applications.
+*   **Role:** Full-Stack & Flutter Developer[cite: 1]
+*   **Active Since:** Joined December 2024[cite: 1]
 
-Currently, I’m strengthening my skills in the **MERN Stack** while continuing to build applications with **Flutter and JavaScript**.
+## 📊 GitHub Stats
+*To replicate the dark-themed stat cards and donut charts from your image, these dynamic widgets will automatically pull your live data:*
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithAshraf&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Ashraf's GitHub Stats" />
+</div>
 
-## 🚀 About Me
+## </> Tech Stack & Languages
+**Core Technologies:** PHP, Dart, JavaScript, SCSS, CSS, HTML, Hack, and C++[cite: 1]
 
-- 💻 Intermediate Flutter Developer
-- 🌐 Currently learning the MERN Stack
-- 📱 Building mobile applications with Flutter & Dart
-- ⚡ Strong foundation in HTML, CSS & JavaScript
-- 🗄️ Learning backend development with Node.js, Express & MongoDB
-- 🎨 Interested in UI/UX Design
-- 🔧 Love turning ideas into practical projects
-- 📚 Currently improving my full-stack development skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAshraf&layout=donut&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
 
-## 🛠️ Tech Stack
+## 📌 Notable Projects
 
-### Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Currently Learning
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+| Project | Tech Stack | Description |
+| :--- | :---: | :--- |
+| **[Basic-to-Advance-Javascript](https://github.com/CodewithAshraf/Basic-to-Advance-Javascript)** | `HTML` / `JavaScript`[cite: 1] | This repository contains my JavaScript learning journey. I learned JavaScript primarily through hands-on practice, building small...[cite: 1] |
+| **[Mosque-Way](https://github.com/CodewithAshraf/Mosque-Way)** | `Dart` / `Flutter`[cite: 1] | MosqueWay is a Flutter-based mobile application designed to help users quickly find nearby mosques using their current...[cite: 1] |
+| **[CurrenSee](https://github.com/CodewithAshraf/CurrenSee)** | `Dart` / `Flutter`[cite: 1] | CurrenSee Converter is a dynamic, user-centric mobile currency application built using Flutter and Dart. It offers real-time...[cite: 1] |
+| **[Lawyer-Management-System](https://github.com/CodewithAshraf/Lawyer-Management-System)** | `PHP`[cite: 1] | A web-based system where clients can book appointments with lawyers, lawyers manage schedules, and admins oversee users.[cite: 1] |
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="180"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🕌 MosqueWay
-
-A modern Flutter application designed to help users find nearby mosques when they are in an unfamiliar area.
-
-**Tech:** Flutter • Dart • OpenStreetMap • REST APIs
-
-**Features:**
-- 📍 Nearby mosque discovery
-- 🗺️ Interactive map
-- 🕌 Mosque details
-- ⭐ Favorite mosques
-- ⚙️ Settings
-- 🎨 Modern blue & white UI
-
----
-
-## 💱 CurrenSee
-
-A currency conversion application focused on providing a clean and modern experience for viewing exchange rates.
-
-**Tech:** Flutter • Dart • Provider • REST APIs
-
-**Features:**
-- 💱 Currency conversion
-- 📊 Exchange rates
-- 📰 Currency-related news
-- ⭐ Favorite currencies
-- 🌓 Theme support
-- 📱 Responsive mobile UI
-
----
-
-## 👟 Stepzy
-
-A modern e-commerce shoe website inspired by contemporary sneaker stores.
-
-**Tech:** HTML • CSS • JavaScript
-
-**Features:**
-- 🛒 Shopping cart
-- 💾 LocalStorage
-- 👟 Product browsing
-- 📱 Responsive design
-- 🎨 Modern UI
-
----
-
-## ⚖️ Sentinel Advocates
-
-A lawyer management system developed using PHP and MySQL.
-
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
-
-**Features:**
-- 👤 Client management
-- ⚖️ Lawyer management
-- 📁 Case management
-- 🗄️ Database integration
-
----
-
-# 💻 What I'm Currently Working On
-
-```text
-Flutter
-  ├── Mobile Application Development
-  ├── API Integration
-  └── State Management
-
-MERN Stack
-  ├── Node.js
-  ├── Express.js
-  ├── MongoDB
-  └── React.js ← Currently Learning
-
-UI/UX
-  ├── Figma
-  ├── Mobile UI
-  └── Web UI
+*Powered by open-source passion* 🚀
