@@ -1,107 +1,115 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · CODEWITHASHRAF</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&label=Ashraf&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&label=Ashraf&mode=dark" width="100%" alt="Ashraf cinematic profile scene" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&label=Ashraf&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&label=Ashraf&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Ashraf animated ASCII name" />
-</picture>
-
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · codewithashraf</sub></p>
+<h1>Ashraf</h1>
+<h2>Frontend or full-stack engineer</h2>
 <p>I craft responsive, user-friendly web applications by combining clean front-end design with powerful back-end solutions. Skilled in PHP, MySQL, JavaScript, and</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/codewithashraf">GitHub</a></p>
-</div>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="58%" valign="top"><h2>The point of view</h2><blockquote>I craft responsive, user-friendly web applications by combining clean front-end design with powerful back-end solutions. Skilled in PHP, MySQL, JavaScript, and</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · PHP</sub></p><p><strong>20</strong> repos<br /><strong>60</strong> contributions<br /><strong>0</strong> followers</p></td>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/192617470?u=aec8982b64b9081b57d81de3b03e77d7a1e50704&amp;v=4" width="180" alt="Ashraf GitHub avatar" />
+</td>
 </tr>
 </table>
+</div>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>In the current cut</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&items=PHP%3A%3ACurrent%20focus%7CDart%3A%3AIn%20the%20active%20build%20queue%7CJavaScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&items=PHP%3A%3ACurrent%20focus%7CDart%3A%3AIn%20the%20active%20build%20queue%7CJavaScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Ashraf cinematic highlights" />
-</picture>
-
-<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Production palette</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=cinematic-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Ashraf animated technology stack" />
-</picture>
-
-<p align="center"><sub>PHP · Dart · JavaScript · CSS · SCSS · HTML · Hack · C++ · tools chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Featured reel</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&repos=codewithashraf%2FBasic-to-Advance-Javascript%2Ccodewithashraf%2FMosque-Way%2Ccodewithashraf%2FCurrenSee%2Ccodewithashraf%2FLawyer-Management-System&v=cinematic-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&repos=codewithashraf%2FBasic-to-Advance-Javascript%2Ccodewithashraf%2FMosque-Way%2Ccodewithashraf%2FCurrenSee%2Ccodewithashraf%2FLawyer-Management-System&v=cinematic-projects-2&mode=dark" width="100%" alt="Ashraf cinematic project reel" />
-</picture>
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/CodewithAshraf/Basic-to-Advance-Javascript">Basic-to-Advance-Javascript</a></strong></p><p>This repository contains my JavaScript learning journey. I learned JavaScript primarily through hands-on practice, building small programs and experimenting wit</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/CodewithAshraf/Mosque-Way">Mosque-Way</a></strong></p><p>MosqueWay is a Flutter-based mobile application designed to help users quickly find nearby mosques using their current location. It features a clean blue-and-wh</p><p><sub>Dart · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/CodewithAshraf/CurrenSee">CurrenSee</a></strong></p><p>CurrenSee Converter is a dynamic, user-centric mobile currency application built using Flutter and Dart. It offers real-time currency conversions alongside adva</p><p><sub>Dart · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/CodewithAshraf/Lawyer-Management-System">Lawyer-Management-System</a></strong></p><p>&quot;A web-based system where clients can book appointments with lawyers, lawyers manage schedules, and admins oversee users and bookings for a smooth, secure proce</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · Dart · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>21 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>64 contributions · 31 active days</p></td>
 </tr>
 </table>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+<p><sub>I craft responsive, user-friendly web applications by combining clean front-end design with powerful back-end solutions. Skilled in PHP, MySQL, JavaScript, and</sub></p>
 
-<p align="center"><sub>20 public projects · 0 stars · 60 contributions · 0 followers</sub></p>
+<h2>Proof at a glance</h2>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>21</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>64</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<h2>Contribution trail</h2>
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Ashraf contribution snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ashraf GitHub proof metrics" />
 </picture>
+</p>
 
-<h2>Play the next move</h2>
+<h2>Selected work</h2>
 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Ashraf animated chess replay" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&repos=codewithashraf%2FBasic-to-Advance-Javascript%2Ccodewithashraf%2FMosque-Way%2Ccodewithashraf%2FCurrenSee%2Ccodewithashraf%2FLawyer-Management-System&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&repos=codewithashraf%2FBasic-to-Advance-Javascript%2Ccodewithashraf%2FMosque-Way%2Ccodewithashraf%2FCurrenSee%2Ccodewithashraf%2FLawyer-Management-System&v=recruiter-projects-1&mode=dark" width="100%" alt="Ashraf selected projects" />
 </picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/CodewithAshraf/Basic-to-Advance-Javascript">Basic-to-Advance-Javascript</a></h3>
+<p>This repository contains my JavaScript learning journey. I learned JavaScript primarily through hands-on practice, building small programs and experim</p>
+<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/CodewithAshraf/Basic-to-Advance-Javascript">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/CodewithAshraf/Mosque-Way">Mosque-Way</a></h3><p>MosqueWay is a Flutter-based mobile application designed to help users quickly find nearby mosques using their current location. It features a clean b</p><p><sub>Dart · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/CodewithAshraf/CurrenSee">CurrenSee</a></h3><p>CurrenSee Converter is a dynamic, user-centric mobile currency application built using Flutter and Dart. It offers real-time currency conversions alon</p><p><sub>Dart · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/CodewithAshraf/Lawyer-Management-System">Lawyer-Management-System</a></h3><p>&quot;A web-based system where clients can book appointments with lawyers, lawyers manage schedules, and admins oversee users and bookings for a smooth, se</p><p><sub>PHP · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<div align="center">
-<p><sub>THE NEXT SCENE</sub></p>
+<h2>Technical toolkit</h2>
 
-<h2>Keep the story moving</h2>
-
-<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=cinematic-social-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=codewithashraf&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Ashraf contact links" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ashraf technology stack" />
 </picture>
+</p>
 
-<p><a href="https://github.com/codewithashraf">GitHub</a></p>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>Dart</strong><br /><sub>20% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>SCSS</strong><br /><sub>12% of public code</sub></td>
+</tr>
+</table>
 
-<p><sub>Ashraf · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-</div>
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=codewithashraf&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192617470%3Fu%3Daec8982b64b9081b57d81de3b03e77d7a1e50704%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ashraf contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/codewithashraf">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Ashraf · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
