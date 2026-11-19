@@ -6,7 +6,9 @@
 <p><sub>RECRUITER SIGNAL BRIEF · codewithashraf</sub></p>
 <h1>Muhammad Ashraf</h1>
 <h2>Frontend or Full-stack engineer</h2>
-<p>I craft responsive, user-friendly web applications by combining clean front-end design with powerful back-end solutions. Skilled in PHP, MySQL, JavaScript, and</p>
+<p>Full Stack Developer with a strong foundation in the MERN Stack, building modern and scalable web applications.  
+Exploring the world of Agentic AI with Python while continuously expanding my knowledge of AI-powered development.  
+Good understanding of Dart & Flutter, with a passion for building across web and mobile platforms.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/codewithashraf">GitHub</a></p>
