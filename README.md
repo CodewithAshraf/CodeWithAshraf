@@ -4,8 +4,8 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · codewithashraf</sub></p>
-<h1>Ashraf</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h1>Muhammad Ashraf</h1>
+<h2>Frontend or Full-stack engineer</h2>
 <p>I craft responsive, user-friendly web applications by combining clean front-end design with powerful back-end solutions. Skilled in PHP, MySQL, JavaScript, and</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
